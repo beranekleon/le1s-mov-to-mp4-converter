@@ -1,0 +1,17 @@
+{
+  "name": "mov-to-mp4-converter",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Leon / le11772",
+  "license": "MIT",
+  "description": "basic mov to mp4 converter in progress",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.0",
+    "path": "^0.12.7"
+  }
+}
