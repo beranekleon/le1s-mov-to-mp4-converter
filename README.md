@@ -1,5 +1,5 @@
-this project uses binaries from gyan.dev's FFmpeg package
-(https://www.gyan.dev/ffmpeg/builds/)
+!this project uses binaries from gyan.dev's FFmpeg package
+(https://www.gyan.dev/ffmpeg/builds/)!
 
 basic program to convert .mov-files to .mp4-files
 
